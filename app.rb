@@ -1,6 +1,6 @@
 class App < Sinatra::Base
 
   get '/'  do 
-  "Hello, World!"
+  "Hello, Worldizsd MY NAME IS SARITA!"
   end
 end
